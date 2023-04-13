@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xwmh0B48J2TrciypTi3Vw/5sXc1y5XEaOBEyKzKezz84oI63+mcpb7pfjOXpTT9zhhws1KfK6E8o96it7yZoQ==",
+  "success": true,
+  "projectFilePath": "/home/bbossola/projects/rocksolid/samples/tmp.dotnet/dotnet-sln-sample-project/root/plugins/charlie/charlie.csproj",
+  "expectedPackageFiles": [
+    "/home/bbossola/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
